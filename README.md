@@ -3,6 +3,11 @@ Positron Language Specification
 
 _Positron is a language in development, so its specification will constantly change._
 
+Spec
+----
+
+Start reading [here](doc/index.md).
+
 Contribute
 ----------
 
