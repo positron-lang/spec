@@ -11,8 +11,7 @@ Positron's Laws of Design
     A Positron feature must favor one good way of doing something over several equivalent ways of doing the same thing, except where it would conflict with the First Law.
 
 3. **(Law of Performance)**
-    A Positron feature may not harm performance with the purpose of doing something for the programmer that he is able to do by himself, except where it would conflict with the First and Second
-https://github.com/positron-lang/spec/issues/1#Laws.
+    A Positron feature may not harm performance with the purpose of doing something for the programmer that he is able to do by himself, except where it would conflict with the First and Second Laws.
 
 Later, when our programmers had taken responsibility for software that affects whole planets and human civilizations, they added a fourth law, the Zeroth Law, to precede the others:
 
