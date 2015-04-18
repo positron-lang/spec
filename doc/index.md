@@ -1,7 +1,8 @@
 Positron Language Specification
 ===============================
 
-# Positron's Laws of Design
+Positron's Laws of Design
+-------------------------
 
 1. **(Law of Simplicity)**
     A Positron feature must help to make the language better and greater, without unnecessary additions, modifications or complications.
